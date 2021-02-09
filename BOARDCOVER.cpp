@@ -97,6 +97,7 @@ int main() {
         } else {
             std::cout << check(0, blocks, map, h) << std::endl;
         }
+        delete [] map;
     }
     return 0;
 }
