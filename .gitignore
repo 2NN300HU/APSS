@@ -9,5 +9,6 @@ out
 gen
 CMakeLists.txt
 test.cpp
+input.txt
 # Project exclude paths
 /cmake-build-debug/
